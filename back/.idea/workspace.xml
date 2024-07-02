@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="956225d7-d9f4-4f36-889f-db5aea18c355" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Compiler\Soft\Environment\apache-maven-3.8.4\maven-repo" />
+        <option name="mavenHome" value="D:\Compiler\Soft\Environment\apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="D:\Compiler\Soft\Environment\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2YQfJwNyBHdRVBu8Pv95SAQVS6L" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.cloud-demo [clean].executor": "Run",
+    "Maven.feign-api [clean].executor": "Run",
+    "Maven.gateway [clean].executor": "Run",
+    "Maven.inovice-service [clean].executor": "Run",
+    "Maven.off-service [clean].executor": "Run",
+    "Maven.order-service [clean].executor": "Run",
+    "Maven.salary-service [clean].executor": "Run",
+    "Maven.user-service [clean].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.GatewayApplication.executor": "Run",
+    "Spring Boot.InvoiceApplication.executor": "Debug",
+    "Spring Boot.OffApplication.executor": "Debug",
+    "Spring Boot.OrderApplication.executor": "Debug",
+    "Spring Boot.SalaryApplication.executor": "Debug",
+    "Spring Boot.UserApplication.executor": "Debug",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8 (2)",
+    "last_opened_file_path": "E:/文件/论文/2024年7月2日/基于微服务架构的财务数据管理系统/back",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/zhengzhong/Desktop/cloud-demo/salary-service/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "cdd743bf2451109c1fa00d103a6be61f",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zhengzhong\Desktop\cloud-demo\order-service\src\main\java\cn\itcast\order" />
+      <recent name="C:\Users\zhengzhong\Desktop\cloud-demo\user-service\src\main\java\cn\itcast\user" />
+      <recent name="C:\Users\zhengzhong\Desktop\cloud-demo\salary-service\src\main\java\cn\itcast\salary" />
+      <recent name="C:\Users\zhengzhong\Desktop\cloud-demo\off-service\src\main\java\cn\itcast\off" />
+      <recent name="C:\Users\zhengzhong\Desktop\cloud-demo\off-service\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zhengzhong\Desktop\cloud-demo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GatewayApplication">
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.gateway.GatewayApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvoiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="inovice-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.invoice.InvoiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.invoice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OffApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="off-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.off.OffApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.off.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.order.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalaryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="salary-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.salary.SalaryApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.salary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.user.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.InvoiceApplication" />
+      <item itemvalue="Spring Boot.OffApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.SalaryApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.InvoiceApplication" />
+        <item itemvalue="Spring Boot.OffApplication" />
+        <item itemvalue="Spring Boot.SalaryApplication" />
+        <item itemvalue="Spring Boot.GatewayApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="956225d7-d9f4-4f36-889f-db5aea18c355" name="更改" comment="" />
+      <created>1700462658050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700462658050</updated>
+      <workItem from="1700462659542" duration="703000" />
+      <workItem from="1700463372662" duration="628000" />
+      <workItem from="1700464010306" duration="662000" />
+      <workItem from="1700464682050" duration="1567000" />
+      <workItem from="1700466262858" duration="1145000" />
+      <workItem from="1700467421388" duration="611000" />
+      <workItem from="1700468043182" duration="1155000" />
+      <workItem from="1700469364048" duration="863000" />
+      <workItem from="1700470316893" duration="110000" />
+      <workItem from="1700470457278" duration="277000" />
+      <workItem from="1700471139236" duration="409000" />
+      <workItem from="1700471881456" duration="275000" />
+      <workItem from="1700472167722" duration="480000" />
+      <workItem from="1700527587747" duration="4220000" />
+      <workItem from="1700545503680" duration="6112000" />
+      <workItem from="1700553424840" duration="37000" />
+      <workItem from="1700553493474" duration="5113000" />
+      <workItem from="1700613725873" duration="1601000" />
+      <workItem from="1700791212897" duration="5348000" />
+      <workItem from="1700815112793" duration="3008000" />
+      <workItem from="1701046473455" duration="16000" />
+      <workItem from="1701064192892" duration="269000" />
+      <workItem from="1701239116308" duration="6421000" />
+      <workItem from="1701323588057" duration="6275000" />
+      <workItem from="1701391377199" duration="80000" />
+      <workItem from="1701391507091" duration="83000" />
+      <workItem from="1701391618192" duration="141000" />
+      <workItem from="1701391769263" duration="20000" />
+      <workItem from="1701391798230" duration="80000" />
+      <workItem from="1701391888191" duration="17896000" />
+      <workItem from="1701478966078" duration="6309000" />
+      <workItem from="1701496027754" duration="11257000" />
+      <workItem from="1701650125678" duration="16901000" />
+      <workItem from="1701681330883" duration="732000" />
+      <workItem from="1701737031359" duration="14000" />
+      <workItem from="1701999221993" duration="7429000" />
+      <workItem from="1702256876555" duration="10125000" />
+      <workItem from="1702341450355" duration="46000" />
+      <workItem from="1702348890586" duration="10569000" />
+      <workItem from="1702427795064" duration="11146000" />
+      <workItem from="1702515383978" duration="7354000" />
+      <workItem from="1702600685390" duration="14957000" />
+      <workItem from="1702860000233" duration="15637000" />
+      <workItem from="1702945872615" duration="11471000" />
+      <workItem from="1703032715497" duration="10753000" />
+      <workItem from="1703064262016" duration="35000" />
+      <workItem from="1703119026892" duration="4022000" />
+      <workItem from="1704160341333" duration="5000" />
+      <workItem from="1704162980583" duration="32000" />
+      <workItem from="1704163043307" duration="1219000" />
+      <workItem from="1704356208729" duration="11000" />
+      <workItem from="1704359604672" duration="4000" />
+      <workItem from="1704436078156" duration="4000" />
+      <workItem from="1704440267516" duration="14000" />
+      <workItem from="1704441234326" duration="6000" />
+      <workItem from="1704445634106" duration="18000" />
+      <workItem from="1704674991775" duration="131000" />
+      <workItem from="1711763651331" duration="13917000" />
+      <workItem from="1711789943611" duration="1600000" />
+      <workItem from="1711945144786" duration="3260000" />
+      <workItem from="1711957232298" duration="3707000" />
+      <workItem from="1711965977338" duration="8620000" />
+      <workItem from="1712052932759" duration="4885000" />
+      <workItem from="1712147876165" duration="9537000" />
+      <workItem from="1714116471894" duration="6609000" />
+      <workItem from="1714138688095" duration="4051000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/salary-service/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/salary-service/src/main/java/cn/itcast/salary/controller/SalaryController.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper" memberName="sqlSelect" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cloud_demo$UserApplication.ic" NAME="UserApplication 覆盖结果" MODIFIED="1702607733005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
